@@ -27,7 +27,7 @@ Complete the election audit for Colorado Board of Elections recent congressional
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 ## Election Audit Summary
-There are a couple key phrases we can change to make this audit run for any election type file, allowing faster results and saving more time for different business tasks. First modify the file location and file saved based on said persons computer file needs. Then change key phrases such as Total Votes, county can turn into city or cities for a governor or mayor election. And finally change the normal ourcomes based off of updated csv files.
+There are a couple key phrases we can change to make this audit run for any election type file, allowing faster results and saving more time for different business tasks. First modify the file location and file saved based on said persons computer file needs. Then change key phrases such as Total Votes, county can turn into city or cities for a governor or mayor election. And finally change the normal outcomes based off of updated csv files.
 
 ## Resources
 Data Source: [election_results.csv](https://github.com/ericwhite710/Election_Analysis/files/9571324/election_results.csv)
